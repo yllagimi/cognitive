@@ -311,6 +311,8 @@ const selectedEvent =
             <div>
               <h1 className="text-xl font-bold">Cognitive Health Surveillance Pathway</h1>
               <p className="text-sm text-slate-400">From Enlistment to Separation</p>
+                <p className="text-sm text-slate-400">Prepared by: Yll Agimi, PhD (Contact: yagimi@r2ml.org) </p>
+
             </div>
           </div>
 
